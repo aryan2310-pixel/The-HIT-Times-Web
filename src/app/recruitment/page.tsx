@@ -188,7 +188,7 @@ export default function RecCommonForm() {
               register={register}
             />
             <FormInput
-              title="Roll Number (In the format-25/CSE/071)"
+              title="Roll Number (In the format-25/CSE/072)"
               id="roll"
               isRequired={true}
               register={register}
